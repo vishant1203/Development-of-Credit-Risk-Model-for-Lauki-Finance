@@ -1,11 +1,3 @@
-# Credit-Risk-Model--Stattistic-ML-Project-
-
----
-
-In this Project, i have defined a Statistical Machine Learning model which can calculate individual's credit score, rating and probability of being defaulted.
-
----
-
 # Development of Credit Risk Model for Lauki Finance
 
 Project Overview: Lauki Finance, a Non-Banking Financial Company (NBFC) based in India, is partnering with AtliQ AI, a leading AI service provider, to develop a sophisticated credit risk model. This model will nclude a credit scorecard that categorizes loan applications into Poor, Average, Good, and Excellent categories, based on criteria similar to the CIBIL scoring system. 
