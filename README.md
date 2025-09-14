@@ -15,8 +15,7 @@ Project Overview: Lauki Finance, a Non-Banking Financial Company (NBFC) based in
 ## Scope of Work: 
 
 - [Phase 1: Development and Implementation]
-  - --1. Model Development: Build a predictive model using Lauki Finance’s dataset which 
-  - --includes historical loan data and default indicators. 
+  - --1. Model Development: Build a predictive model using Lauki Finance’s dataset which includes historical loan data and default indicators. 
   - --2. Scorecard Creation: Develop a scoring system that categorizes credit scores into Poor, Average, Good, and Excellent. 
   - --3. Streamlit UI Application: Develop a user-friendly interface where loan officers can input borrower demographics, loan details, and bureau information (such as credit utilization and open accounts) to obtain
-      predictions on default probabilities and credit ratings. 
+          predictions on default probabilities and credit ratings. 
