@@ -25,4 +25,4 @@ Project Overview: LZ Finance, a Non-Banking Financial Company (NBFC) based in In
        total loan in months, total delinquent in months, Total due passed day, Total enquiry count, Credit utilization ratio.
 
 ## Architecture(Modelling Steps):
-- --[Modelling Step](architecture/architecture.png)
+- --[Modelling Step](architecture/architecture.jpg)
