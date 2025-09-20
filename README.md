@@ -19,10 +19,10 @@ Project Overview: LZ Finance, a Non-Banking Financial Company (NBFC) based in In
 	customer, Number of dependants, Residence type, Years at present address, City, state, Zip code.
 
  - --2. **Loan Dataset**-It contains features Loan ID, Customer ID, Loan purpose, Loan type, Sanction amount, loan amount, Amount disbursed, 
-        Loan tenure, Principal outstanding, Bank balance ata pllication, Disbursed date, Installement start date, Deafult/No default.
+        Loan tenure, Principal outstanding, Bank balance at application, Disbursed date, Installment start date, Default/No default.
 
 - --3. **Bureau Data**--it contain features Customer ID, total number of open accounts till date, total number of closed account till date, 
        total loan in months, total delinquent in months, Total due passed day, Total enquiry count, Credit utilization ratio.
 
 ## Architecture(Modelling Steps):
-- --[Modelling Step](architecture/architecture.jpg)
+- -- ![Modelling Step](architecture/architecture.jpg)
