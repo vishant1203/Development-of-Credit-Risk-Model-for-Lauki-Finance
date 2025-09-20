@@ -2,6 +2,8 @@
 
 Project Overview: LZ Finance, a Non-Banking Financial Company (NBFC) based in India, is partnering with "VS AI", a leading AI service provider, to develop a sophisticated credit risk model. This model will include a credit scorecard that categorizes loan applications into Poor, Average, Good, and Excellent categories, based on criteria similar to the CIBIL scoring system. 
 
+🔗 **Live Demo** → [Credit Risk Model](https://development-of-credit-risk-model-for-lauki-livis-ai.streamlit.app/)  
+
 ---
 
 ## Scope of Work: 
@@ -26,3 +28,6 @@ Project Overview: LZ Finance, a Non-Banking Financial Company (NBFC) based in In
 
 ## Architecture(Modelling Steps):
 - -- ![Modelling Step](architecture/architecture.jpg)
+
+## Live Demo
+https://development-of-credit-risk-model-for-lauki-livis-ai.streamlit.app/
