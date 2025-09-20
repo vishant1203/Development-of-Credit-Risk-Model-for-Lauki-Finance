@@ -152,7 +152,7 @@ if submitted:
         st.error(f"Error while predicting: {e}")
 
 st.write("---")
-st.markdown('<div class="muted">Development of Credit Risk Model for LZ Finance Ltd. — copyright by VS Infotech</div>', unsafe_allow_html=True)
+st.markdown('<div class="muted">Development of Credit Risk Model for LZ Finance Ltd. — copyright by LIVIS AI </div>', unsafe_allow_html=True)
 
 
 # import streamlit as st
@@ -214,5 +214,5 @@ st.markdown('<div class="muted">Development of Credit Risk Model for LZ Finance 
 #     st.write(f"Credit Score-->{credit_score}")
 #     st.write(f" Rating -->{rating}")
 #
-# st.markdown('Development of Credit Risk Model for LZ Finance Ltd.-copyright by VS Infotech')
+# st.markdown('Development of Credit Risk Model for LZ Finance Ltd.-copyright by LIVIS AI Infotech')
 
